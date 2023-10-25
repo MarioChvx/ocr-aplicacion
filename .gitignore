@@ -173,4 +173,7 @@ poetry.toml
 # LSP config files
 pyrightconfig.json
 
+# Ignore the key
+global-axe-403123-13b2bd9c59b4.json
+
 # End of https://www.toptal.com/developers/gitignore/api/python
